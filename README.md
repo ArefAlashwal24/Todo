@@ -94,11 +94,11 @@ LinkedIn post: https://shorturl.at/o9Jcn
 
 Scenario 
 
-How to test quickly with curl
+How to test quickly with curl:
 curl http://localhost:3001/todos
 curl -X POST http://localhost:3001/todos -H "Content-Type: application/json" -d "{\"todo\":{\"title\":\"Buy milk\"}}"
 
 Contributors / Mentions
 
-Add Nurettin Şenyer and Ömer Durmuş
- *Aref Alashwal 
+Nurettin Şenyer and Ömer Durmuş
+ by : Aref Alashwal 
