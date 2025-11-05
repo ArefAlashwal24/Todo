@@ -1,0 +1,19 @@
+# ===== Rails =====
+/log/*
+/tmp/*
+/storage/*
+/vendor/bundle
+/public/assets
+/.bundle
+*.sqlite3
+*.sqlite3-journal
+
+# ===== Next.js / Node =====
+todo_frontend/.next
+todo_frontend/node_modules
+todo_frontend/.env.local
+npm-debug.log*
+yarn-error.log*
+
+# ===== Cypress videos (upload to YouTube, don't commit) =====
+todo_frontend/cypress/videos
