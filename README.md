@@ -78,10 +78,6 @@ npx cypress open
 Headless with video
 npx cypress run --browser chrome
 # videos in cypress/videos/
-
-
-We keep videos out of Git (.gitignore) and upload to YouTube.
-
 Example specs
 
 todos_green.cy.ts – add, toggle, delete (pass)
